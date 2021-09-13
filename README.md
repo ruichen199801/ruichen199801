@@ -1,32 +1,14 @@
 ### Hi there, I am Ruichen 👋
 
 <!--
-
-[![Ruichen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruichen199801)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruichen199801)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Ruichen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruichen199801)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruichen199801&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
+My GitHub Status (TBA)
 
 <a href="">
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ruichen199801&show_icons=true" alt="Ruichen's GitHub Status" />
 </a>
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
-<a href="">
+<a href="http://ruichenzhang.com">
  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruichen199801&layout=compact)](https://github.com/anuraghazra/github-readme-stats" alt="Ruichen's Top Langs" />
 </a>
 
