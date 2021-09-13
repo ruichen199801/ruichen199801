@@ -13,7 +13,7 @@ My GitHub Statistics (TBA)
 -->
 
 <a href="http://ruichenzhang.com">
- <img align="right" src="./photo.png"](https://github.com/anuraghazra/github-readme-stats" alt="Photo" />
+ <img align="right" src="./photo.jpg"](https://github.com/anuraghazra/github-readme-stats" alt="Photo" />
 </a>
 
 **Something about me:**
@@ -30,7 +30,7 @@ My GitHub Statistics (TBA)
 
 **Featured projects:**
 
-[Treasure Hunt](https://github.com/ruichen199801/treasure-hunt) • [Screenager](https://github.com/ruichen199801/screenager) • [Starlink](https://github.com/ruichen199801/starlink) • [YelpCamp](https://github.com/ruichen199801/yelp-camp)
+* [Treasure Hunt](https://github.com/ruichen199801/treasure-hunt) • [Screenager](https://github.com/ruichen199801/screenager) • [Starlink](https://github.com/ruichen199801/starlink) • [YelpCamp](https://github.com/ruichen199801/yelp-camp)
 
 **Reach out to me via:** [LinkedIn](https://www.linkedin.com/in/ruichen-zhang/) or [Personal Website](http://ruichenzhang.com/)
 
