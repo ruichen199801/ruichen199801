@@ -1,36 +1,38 @@
 ### Hi there, I am Ruichen 👋
 
 <!--
-My GitHub Status (TBA)
+My GitHub Statistics (TBA)
 
-<a href="">
+<a href="http://ruichenzhang.com">
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruichen199801&layout=compact)](https://github.com/anuraghazra/github-readme-stats" alt="Ruichen's Top Langs" />
+</a>
+
+<a href="http://ruichenzhang.com">
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ruichen199801&show_icons=true" alt="Ruichen's GitHub Status" />
 </a>
 -->
 
-<!--<a href="http://ruichenzhang.com">
- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruichen199801&layout=compact)](https://github.com/anuraghazra/github-readme-stats" alt="Ruichen's Top Langs" />
-</a>-->
-
 <a href="http://ruichenzhang.com">
- <img align="right" src="./photo.png"](https://github.com/anuraghazra/github-readme-stats" alt="Ruichen's Top Langs" />
+ <img align="right" src="./photo.png"](https://github.com/anuraghazra/github-readme-stats" alt="Photo" />
 </a>
 
 **Something about me:**
-<br>🎓 Penn MCIT Class of 2023
-<br>👨‍💻 Former SWE Intern at 4Paradigm
-<br>✨ Aspiring Full-stack Software Engineer • Tech Enthusiast • Team Player
+
+* 🎓 Penn MCIT Class of 2023
+* 👨‍💻 Former SWE Intern at 4Paradigm
+* ✨ Aspiring Full-stack Software Engineer • Tech Enthusiast • Team Player
 
 **Currently working on:**
-<br>📖 Coursework: Web Programming • Big Data Analytics • Computer Systems
-<br>👯 Group project: A microblogging & streaming app
-<br>💼 Seeking 2022 summer SWE intern
+
+* 📖 Coursework: Web Programming • Big Data Analytics • Computer Systems
+* 👯 Group project: A microblogging & streaming app
+* 💼 Seeking 2022 summer SWE intern
 
 **Featured projects:**
-<br>[Treasure Hunt](https://github.com/ruichen199801/treasure-hunt) • [Screenager](https://github.com/ruichen199801/screenager) • [Starlink](https://github.com/ruichen199801/starlink) • [YelpCamp](https://github.com/ruichen199801/yelp-camp)
 
-**Reach out to me via:**
-<br>[LinkedIn](https://www.linkedin.com/in/ruichen-zhang/) or [Personal Website](http://ruichenzhang.com/)
+[Treasure Hunt](https://github.com/ruichen199801/treasure-hunt) • [Screenager](https://github.com/ruichen199801/screenager) • [Starlink](https://github.com/ruichen199801/starlink) • [YelpCamp](https://github.com/ruichen199801/yelp-camp)
+
+**Reach out to me via:** [LinkedIn](https://www.linkedin.com/in/ruichen-zhang/) or [Personal Website](http://ruichenzhang.com/)
 
 #### Languages & Tools
 
