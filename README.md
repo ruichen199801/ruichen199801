@@ -18,12 +18,12 @@ My GitHub Status (TBA)
 <br>✨ Aspiring Software Engineer • Tech Enthusiast • Team Player
 
 **Currently working on:**
-<br>📖 Coursework: Programming for the Web • Big Data Analytics • Computer Systems
+<br>📖 Coursework: Web Programming • Big Data Analytics • Computer Systems
 <br>👯 Group project: A microblogging & streaming app
 <br>💼 Seeking 2022 summer SWE intern
 
 **Reach out to me via:**
-<br>📫 [Gmail](ruichenz@seas.upenn.edu) • [LinkedIn](https://www.linkedin.com/in/ruichen-zhang/) • [Personal Website](http://ruichenzhang.com/)
+<br>📫 [LinkedIn](https://www.linkedin.com/in/ruichen-zhang/) • [Personal Website](http://ruichenzhang.com/)
 
 #### Languages & Tools
 
