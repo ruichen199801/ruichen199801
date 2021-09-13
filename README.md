@@ -22,6 +22,12 @@ My GitHub Status (TBA)
 <br>👯 Group project: A microblogging & streaming app
 <br>💼 Seeking 2022 summer SWE intern
 
+**Featured projects:**
+<br>[Treasure Hunt](https://github.com/ruichen199801/treasure-hunt) 
+<br>[Screenager](https://github.com/ruichen199801/treasure-hunt)
+<br>[Starlink](https://github.com/ruichen199801/treasure-hunt)
+<br>[YelpCamp](https://github.com/ruichen199801/treasure-hunt)
+
 **Reach out to me via:**
 <br>📫 [LinkedIn](https://www.linkedin.com/in/ruichen-zhang/) • [Personal Website](http://ruichenzhang.com/)
 
