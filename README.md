@@ -13,7 +13,7 @@ My GitHub Statistics (TBA)
 -->
 
 <a href="http://ruichenzhang.com">
- <img align="right" src="./photo.jpg"](https://github.com/anuraghazra/github-readme-stats" alt="Photo" />
+ <img align="right" src="./photo.png"](https://github.com/anuraghazra/github-readme-stats" alt="Photo" />
 </a>
 
 **Something about me:**
