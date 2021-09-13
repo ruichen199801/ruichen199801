@@ -29,7 +29,8 @@ My GitHub Status (TBA)
 **Featured projects:**
 <br>[Treasure Hunt](https://github.com/ruichen199801/treasure-hunt) • [Screenager](https://github.com/ruichen199801/screenager) • [Starlink](https://github.com/ruichen199801/starlink) • [YelpCamp](https://github.com/ruichen199801/yelp-camp)
 
-**Reach out to me via:** [LinkedIn](https://www.linkedin.com/in/ruichen-zhang/) or [Personal Website](http://ruichenzhang.com/)
+**Reach out to me via:** 
+<br>[LinkedIn](https://www.linkedin.com/in/ruichen-zhang/) or [Personal Website](http://ruichenzhang.com/)
 
 #### Languages & Tools
 
