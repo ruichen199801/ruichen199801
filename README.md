@@ -4,10 +4,6 @@
 My GitHub Statistics (TBA)
 
 <a href="http://ruichenzhang.com">
- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruichen199801&layout=compact)](https://github.com/anuraghazra/github-readme-stats" alt="Ruichen's Top Langs" />
-</a>
-
-<a href="http://ruichenzhang.com">
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ruichen199801&show_icons=true" alt="Ruichen's GitHub Status" />
 </a>
 -->
