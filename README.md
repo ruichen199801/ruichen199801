@@ -23,13 +23,9 @@ My GitHub Status (TBA)
 <br>💼 Seeking 2022 summer SWE intern
 
 **Featured projects:**
-<br>[Treasure Hunt](https://github.com/ruichen199801/treasure-hunt) 
-<br>[Screenager](https://github.com/ruichen199801/treasure-hunt)
-<br>[Starlink](https://github.com/ruichen199801/treasure-hunt)
-<br>[YelpCamp](https://github.com/ruichen199801/treasure-hunt)
+<br>[Treasure Hunt](https://github.com/ruichen199801/treasure-hunt) • [Screenager](https://github.com/ruichen199801/screenager) • [Starlink](https://github.com/ruichen199801/starlink) • [YelpCamp](https://github.com/ruichen199801/yelp-camp)
 
-**Reach out to me via:**
-<br>📫 [LinkedIn](https://www.linkedin.com/in/ruichen-zhang/) • [Personal Website](http://ruichenzhang.com/)
+**Reach out to me via:** [LinkedIn](https://www.linkedin.com/in/ruichen-zhang/) or [Personal Website](http://ruichenzhang.com/)
 
 #### Languages & Tools
 
