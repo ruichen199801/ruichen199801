@@ -8,8 +8,12 @@ My GitHub Status (TBA)
 </a>
 -->
 
-<a href="http://ruichenzhang.com">
+<!--<a href="http://ruichenzhang.com">
  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruichen199801&layout=compact)](https://github.com/anuraghazra/github-readme-stats" alt="Ruichen's Top Langs" />
+</a>-->
+
+<a href="http://ruichenzhang.com">
+ <img align="right" src="./photo.png"](https://github.com/anuraghazra/github-readme-stats" alt="Ruichen's Top Langs" />
 </a>
 
 **Something about me:**
