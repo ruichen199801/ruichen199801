@@ -13,7 +13,7 @@ My GitHub Statistics (TBA)
 -->
 
 <a href="http://ruichenzhang.com">
- <img align="right" src="./photo.png"](https://github.com/anuraghazra/github-readme-stats" alt="Photo" />
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruichen199801&layout=compact)](https://github.com/anuraghazra/github-readme-stats" alt="Ruichen's Top Langs" />
 </a>
 
 **Something about me:**
@@ -27,10 +27,6 @@ My GitHub Statistics (TBA)
 * 📖 Coursework: Web Programming • Big Data Analytics • Computer Systems
 * 👯 Group project: A microblogging & streaming app
 * 💼 Seeking 2022 summer SWE intern
-
-**Featured projects:**
-
-* [Treasure Hunt](https://github.com/ruichen199801/treasure-hunt) • [Screenager](https://github.com/ruichen199801/screenager) • [Starlink](https://github.com/ruichen199801/starlink) • [YelpCamp](https://github.com/ruichen199801/yelp-camp)
 
 **Reach out to me via:** [LinkedIn](https://www.linkedin.com/in/ruichen-zhang/) or [Personal Website](http://ruichenzhang.com/)
 
