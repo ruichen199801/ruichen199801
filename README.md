@@ -23,7 +23,7 @@ My GitHub Statistics
 
 * 👨‍💻 Research Assistant at CSSLab (Frontend)
 * 📖 Coursework: Web Programming • Big Data Analytics • Computer Systems
-* 💼 Seeking 2022 summer SWE intern
+* 💼 Seeking 2022 Summer SWE Intern
 
 **Reach out to me via:** [LinkedIn](https://www.linkedin.com/in/ruichen-zhang/) or [Personal Website](http://ruichenzhang.com/)
 
