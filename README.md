@@ -16,7 +16,7 @@ My GitHub Statistics
 **Something about me:**
 
 * 🎓 Penn MCIT Class of 2023
-* 👨‍💻 Former SWE Intern at 4Paradigm
+* 👨‍💻 Former SWE Intern at 4Paradigm (Backend)
 * ✨ Aspiring Full-stack Software Engineer • Tech Enthusiast • Team Player
 
 **Currently working on:**
