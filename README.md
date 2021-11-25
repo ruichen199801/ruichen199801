@@ -16,14 +16,13 @@ My GitHub Statistics
 **Something about me:**
 
 * 🎓 Penn MCIT Class of 2023
-* 👨‍💻 Former SWE Intern at 4Paradigm (Backend)
+* 👨‍💻 Incoming SDE Intern at Amazon • Ex SDE Intern at 4Paradigm (Backend)
 * ✨ Aspiring Full-stack Software Engineer • Tech Enthusiast • Team Player
 
 **Currently working on:**
 
 * 👨‍💻 Research Assistant at CSSLab (Frontend)
 * 📖 Coursework: Web Programming • Big Data Analytics • Computer Systems
-* 💼 Seeking 2022 Summer SWE Intern
 
 **Reach out to me via:** [LinkedIn](https://www.linkedin.com/in/ruichen-zhang/) or [Personal Website](http://ruichenzhang.com/)
 
