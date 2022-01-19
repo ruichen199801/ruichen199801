@@ -15,13 +15,13 @@ My GitHub Statistics
 **Something about me:**
 
 * 🎓 Penn MCIT Class of 2023
-* 👨‍💻 Incoming SDE Intern at Amazon • Ex SDE Intern at 4Paradigm (Backend)
+* 👨‍💻 Incoming SDE Intern at Amazon • RA at Penn's CSSLab (Frontend) •  Ex SDE Intern at 4Paradigm (Backend)
 * ✨ Aspiring Full-stack Software Engineer • Tech Enthusiast • Team Player
 
 **Currently working on:**
 
-* 👨‍💻 Research Assistant at CSSLab (Frontend)
-* 📖 Coursework: Web Programming • Big Data Analytics • Computer Systems
+* 👨‍💻 Teaching Assistant of CIS 350 (Software Design and Engineering)
+* 📖 Coursework: CIT 594 (Data Structures and Software Design) • CIT 595 (Computer Systems Programming) • CIT 596 (Algorithms and Computation)
 
 **Reach out to me via:** [LinkedIn](https://www.linkedin.com/in/ruichen-zhang/) or [Personal Website](http://ruichenzhang.com/)
 
