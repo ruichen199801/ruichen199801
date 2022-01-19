@@ -20,7 +20,7 @@ My GitHub Statistics
 
 **Currently working on:**
 
-* 👨‍💻 Teaching Assistant of CIS 350 (Software Design and Engineering)
+* 👨‍💻 Teaching Assistant for CIS 350 (Software Design and Engineering)
 * 📖 Coursework: CIT 594 (Data Structures and Software Design) • CIT 595 (Computer Systems Programming) • CIT 596 (Algorithms and Computation)
 
 **Reach out to me via:** [LinkedIn](https://www.linkedin.com/in/ruichen-zhang/) or [Personal Website](http://ruichenzhang.com/)
