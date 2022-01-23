@@ -15,7 +15,7 @@ My GitHub Statistics
 **Something about me:**
 
 * 🎓 Penn MCIT Class of 2023
-* 👨‍💻 Incoming SDE Intern at Amazon • RA at Penn's CSSLab (Frontend) •  Ex SDE Intern at 4Paradigm (Backend)
+* 👨‍💻 RA at Penn's CSSLab (Frontend) •  Ex SDE Intern at 4Paradigm (Backend)
 * ✨ Aspiring Full-stack Software Engineer • Tech Enthusiast • Team Player
 
 **Currently working on:**
