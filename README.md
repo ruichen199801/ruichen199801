@@ -14,14 +14,25 @@ My GitHub Statistics
 
 **Something about me:**
 
-* 🎓 Penn MCIT Class of 2023
-* 👨‍💻 RA at Penn's CSSLab (Frontend) •  Ex SDE Intern at 4Paradigm (Backend)
-* ✨ Aspiring Full-stack Software Engineer • Tech Enthusiast • Team Player
+🎓 MCIT '23 @ Penn CIS
+
+💻 SDE Intern @ Amazon
+
+💻  RA @ CSSLab at Penn
+
+💻 SDE Intern @ 4Paradigm
+
+🏆 Fulton Bank Datathon 2022 1st Place @ Wharton
+
+🏆 WPA Case Competition 2022 Top 5 Finalist @ Wharton
 
 **Currently working on:**
 
-* 👨‍💻 Teaching Assistant for CIS 350 (Software Design and Engineering)
-* 📖 Coursework: CIT 594 (Data Structures and Software Design) • CIT 595 (Computer Systems Programming) • CIT 596 (Algorithms and Computation)
+💻 TA for CIS 557 (Web Programming)
+
+📖 CIS 521 (Artificial Intelligence) 
+
+📖  CIS 550 (Database and Information Systems)
 
 **Reach out to me via:** [LinkedIn](https://www.linkedin.com/in/ruichen-zhang/) or [Personal Website](http://ruichenzhang.com/)
 
