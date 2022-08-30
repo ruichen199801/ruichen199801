@@ -1,4 +1,4 @@
-### Hi there, I am Ruichen 👋
+## Hi there, I am Ruichen 👋
 
 <!--
 My GitHub Statistics
@@ -19,11 +19,11 @@ My GitHub Statistics
 [LinkedIn](https://www.linkedin.com/in/ruichen-zhang/) / [Personal Website](http://ruichenzhang.com/)
 
 * 🎓 MCIT '23 @ Penn CIS
-* 💻 SDE Intern @ Amazon
-* 💻 RA @ CSSLab at Penn
-* 💻 SDE Intern @ 4Paradigm
-* 🏆 WPA Case Competition 2022 Top 5 Finalist
-* 🏆 Fulton Bank Datathon 2022 1st Place
+* 👔 SDE Intern @ Amazon
+* 👔 RA @ CSSLab at Penn
+* 👔 SDE Intern @ 4Paradigm
+* 🏆 WPA Case Competition, Top 5 Finalist
+* 🏆 Fulton Bank Datathon, 1st Place
 * 🏆 MCIT Winter Hackathon, Creativity Winner
 
 #### Languages & Tools
