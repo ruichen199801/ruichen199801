@@ -6,11 +6,14 @@ My GitHub Statistics
 <a href="http://ruichenzhang.com">
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ruichen199801&show_icons=true" alt="Ruichen's GitHub Status" />
 </a>
--->
 
 <a href="http://ruichenzhang.com">
  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruichen199801&layout=compact)](https://github.com/anuraghazra/github-readme-stats" alt="Ruichen's Top Langs" />
 </a>
+-->
+
+<a href="http://ruichenzhang.com">
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=ruichen199801&show_icons=true" alt="Ruichen's GitHub Status" />
 
 **Something about me:**
 
@@ -26,13 +29,7 @@ My GitHub Statistics
 
 🏆 WPA Case Competition 2022 Top 5 Finalist @ Wharton
 
-**Currently working on:**
-
-💻 TA for CIS 557 (Web Programming)
-
-📖 CIS 521 (Artificial Intelligence) 
-
-📖  CIS 550 (Database and Information Systems)
+🏆 MCIT Winter Hackathon, Creativity Winner @ CIT59x
 
 **Reach out to me via:** [LinkedIn](https://www.linkedin.com/in/ruichen-zhang/) or [Personal Website](http://ruichenzhang.com/)
 
