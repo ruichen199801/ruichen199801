@@ -14,24 +14,17 @@ My GitHub Statistics
 
 <a href="http://ruichenzhang.com">
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ruichen199801&show_icons=true" alt="Ruichen's GitHub Status" />
+</a>
 
-**Something about me:**
+[LinkedIn](https://www.linkedin.com/in/ruichen-zhang/) / [Personal Website](http://ruichenzhang.com/)
 
-🎓 MCIT '23 @ Penn CIS
-
-💻 SDE Intern @ Amazon
-
-💻  RA @ CSSLab at Penn
-
-💻 SDE Intern @ 4Paradigm
-
-🏆 Fulton Bank Datathon 2022 1st Place @ Wharton
-
-🏆 WPA Case Competition 2022 Top 5 Finalist @ Wharton
-
-🏆 MCIT Winter Hackathon, Creativity Winner @ CIT59x
-
-**Reach out to me via:** [LinkedIn](https://www.linkedin.com/in/ruichen-zhang/) or [Personal Website](http://ruichenzhang.com/)
+* 🎓 MCIT '23 @ Penn CIS
+* 💻 SDE Intern @ Amazon
+* 💻 RA @ CSSLab at Penn
+* 💻 SDE Intern @ 4Paradigm
+* 🏆 WPA Case Competition 2022 Top 5 Finalist
+* 🏆 Fulton Bank Datathon 2022 1st Place
+* 🏆 MCIT Winter Hackathon, Creativity Winner
 
 #### Languages & Tools
 
