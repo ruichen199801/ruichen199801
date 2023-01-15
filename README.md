@@ -13,7 +13,7 @@ My GitHub Statistics
 -->
 
 <a href="http://ruichenzhang.com">
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=ruichen199801&show_icons=true" alt="Ruichen's GitHub Status" />
+ <img align="right" src="https://github-readme-stats-l1afisvel-ruichen199801.vercel.app/api?username=ruichen199801&show_icons=true" alt="Ruichen's GitHub Status" />
 </a>
 
 [LinkedIn](https://www.linkedin.com/in/ruichen-zhang/) / [Personal Website](http://ruichenzhang.com/) / [Forx News](https://forxnews.herokuapp.com/)
