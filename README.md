@@ -18,7 +18,7 @@ My GitHub Statistics
 
 [LinkedIn](https://www.linkedin.com/in/ruichen-zhang/) / [Personal Website](http://ruichenzhang.com/) / [Forx News](https://forxnews.herokuapp.com/)
 
-- 🎓 MCIT '23 @ Penn CIS
+- 🎓 Penn MCIT
 - 👔 SDE Intern @ Amazon
 - 👔 RA @ CSSLab at Penn
 - 👔 SDE Intern @ 4Paradigm
