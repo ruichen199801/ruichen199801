@@ -16,7 +16,7 @@ My GitHub Statistics
  <img align="right" src="https://github-readme-stats-l1afisvel-ruichen199801.vercel.app/api?username=ruichen199801&show_icons=true" alt="Ruichen's GitHub Status" />
 </a>
 
-[LinkedIn](https://www.linkedin.com/in/ruichen-zhang/) / [Personal Website](http://ruichenzhang.com/) / [Forx News](https://forxnews.herokuapp.com/)
+[LinkedIn](https://www.linkedin.com/in/ruichenz/) / [Personal Website](http://ruichenzhang.com/) / [Featured Project](https://forxnews.herokuapp.com/)
 
 - 🎓 MCIT '23 @ Penn
 - 👔 SDE Intern @ Amazon
