@@ -1,12 +1,12 @@
 ## Hi there, I am Ruichen 👋
 
 <a href="http://ruichenzhang.com">
- <img align="right" src="https://github-readme-stats-l1afisvel-ruichen199801.vercel.app/api?username=ruichen199801&show_icons=true" alt="Ruichen's GitHub Status" />
+ <img align="right" src="https://github-readme-stats-l1afisvel-ruichen199801.vercel.app/api?username=ruichen199801&show_icons=true" alt="Ruichen's GitHub Status" style="width: 450px;" />
 </a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logoWidth=20)](https://www.linkedin.com/in/ruichenz/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logoWidth=80)](http://ruichenzhang.com/)
-[![Featured Project](https://img.shields.io/badge/Featured%20Project-orange?style=for-the-badge&logoWidth=40)](https://forxnews.herokuapp.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logoWidth=20&width=80)](https://www.linkedin.com/in/ruichenz/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logoWidth=10&width=80)](http://ruichenzhang.com/)
+[![Featured Project](https://img.shields.io/badge/Featured%20Project-orange?style=for-the-badge&logoWidth=40&width=80)](https://forxnews.herokuapp.com/)
 
 - 🎓 MCIT Candidate @ Penn '23
 - 💼 SDE Intern @ Amazon
