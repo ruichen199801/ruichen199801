@@ -9,6 +9,7 @@
 [![Featured Project](https://img.shields.io/badge/Featured%20Project-orange?style=for-the-badge&logoWidth=40&width=80)](https://forxnews.herokuapp.com/)
 
 - 🎓 MCIT Candidate @ Penn '23
+- 👨‍🏫 TA for CIS350 and CIS557
 - 💼 SDE Intern @ Amazon
 - 🔬 RA @ CSSLab
 - 🚀 SDE Intern @ 4Paradigm
