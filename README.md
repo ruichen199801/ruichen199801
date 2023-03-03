@@ -22,15 +22,16 @@ My GitHub Statistics
 
 <!--[LinkedIn](https://www.linkedin.com/in/ruichenz/) / [Portfolio](http://ruichenzhang.com/) / [Featured Project](https://forxnews.herokuapp.com/)-->
 
-<ul style="list-style: none; padding: 0; margin: 0;">
-  <li>🎓 MCIT Candidate '23 @ Penn</li>
-  <li>💼 SDE Intern @ Amazon</li>
-  <li>🔬 RA @ CSSLab</li>
-  <li>🚀 SDE Intern @ 4Paradigm</li>
-  <li>🥇 Fulton Bank Datathon, 1st Place</li>
-  <li>🎯 Wharton Case Competition, Top 5 Finalist</li>
-  <li>🎨 MCIT Winter Hackathon, Creativity Winner</li>
-</ul>
+- 🎓 MCIT Candidate @ UPenn '23
+- 👨‍🏫 TA for CIS350/557
+- 💼 SDE Intern @ Amazon
+- 🔬 RA @ CSSLab
+- 🚀 SDE Intern @ 4Paradigm
+- 🥇 1st Place @ Fulton Bank Datathon
+- 🎯 Top 5 Finalist @ Wharton Case Competition
+- 🎨 MCIT Winter Hackathon Creativity Winner
+
+<br/>
 
 ### Languages & Tools
 
