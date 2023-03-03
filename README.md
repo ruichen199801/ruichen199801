@@ -7,14 +7,12 @@
 <a href="http://ruichenzhang.com">
  <img src="https://github-readme-stats-l1afisvel-ruichen199801.vercel.app/api?username=ruichen199801&show_icons=true" alt="Ruichen's GitHub Status" />
 </a>
+<br />
 
 - 🎓 MCIT Candidate @ Penn '23
-- 👨‍🏫 TA for CIS350 and CIS557
-- 💼 SDE Intern @ Amazon
-- 🔬 RA @ CSSLab
-- 🚀 SDE Intern @ 4Paradigm
+- 💼 SDE Intern @ Amazon & 4Paradigm
 - 🥇 1st Place @ Fulton Bank Datathon
-- 🎯 Top 5 Finalist @ Wharton Case Competition
+- 🚀 Top 5 Finalist @ Wharton Case Competition
 - 🎨 MCIT Winter Hackathon Creativity Winner
 
 ### Languages & Tools
