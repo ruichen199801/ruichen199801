@@ -2,18 +2,17 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logoWidth=20&width=80)](https://www.linkedin.com/in/ruichenz/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logoWidth=10&width=80)](http://ruichenzhang.com/)
-[![Featured Project](https://img.shields.io/badge/Featured%20Project-orange?style=for-the-badge&logoWidth=40&width=80)](https://forxnews.herokuapp.com/)
+<!--[![Featured Project](https://img.shields.io/badge/Featured%20Project-orange?style=for-the-badge&logoWidth=40&width=80)](https://forxnews.herokuapp.com/)-->
+
+- 🎓 MCIT Candidate @ Penn '23
+- 💼 SDE Intern @ Amazon, 4Paradigm
+- 🥇 1st Place @ Fulton Bank Datathon
+- 🚀 Top 5 Finalist @ Wharton Case Competition
+- 🎨 MCIT Winter Hackathon Creativity Winner
 
 <a href="http://ruichenzhang.com">
  <img src="https://github-readme-stats-l1afisvel-ruichen199801.vercel.app/api?username=ruichen199801&show_icons=true" alt="Ruichen's GitHub Status" />
 </a>
-<br />
-
-- 🎓 MCIT Candidate @ Penn '23
-- 💼 SDE Intern @ Amazon & 4Paradigm
-- 🥇 1st Place @ Fulton Bank Datathon
-- 🚀 Top 5 Finalist @ Wharton Case Competition
-- 🎨 MCIT Winter Hackathon Creativity Winner
 
 ### Languages & Tools
 
