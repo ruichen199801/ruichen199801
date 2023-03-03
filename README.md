@@ -1,5 +1,7 @@
 ## Hi there, I am Ruichen 👋
 
+<head><link rel="stylesheet" type="text/css" href="./styles.css"></head>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logoWidth=20)](https://www.linkedin.com/in/ruichenz/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logoWidth=80)](http://ruichenzhang.com/)
 [![Featured Project](https://img.shields.io/badge/Featured%20Project-orange?style=for-the-badge&logoWidth=40)](https://forxnews.herokuapp.com/)
@@ -23,40 +25,6 @@
     </a>
   </div>
 </div>
-
-<style>
-.container {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  align-items: center;
-}
-
-.bullet-points {
-  width: 50%;
-  margin-right: 20px;
-}
-
-.github-stats {
-  width: 45%;
-}
-
-@media (max-width: 768px) {
-  .container {
-    flex-direction: column;
-  }
-
-  .bullet-points {
-    width: 100%;
-    margin-right: 0;
-    margin-bottom: 20px;
-  }
-
-  .github-stats {
-    width: 100%;
-  }
-}
-</style>
 
 ### Languages & Tools
 
