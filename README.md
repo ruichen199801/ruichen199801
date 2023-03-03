@@ -1,7 +1,7 @@
 ## Hi there, I am Ruichen 👋
 
 <a href="http://ruichenzhang.com">
- <img align="right" src="https://github-readme-stats-l1afisvel-ruichen199801.vercel.app/api?username=ruichen199801&show_icons=true" alt="Ruichen's GitHub Status" style="width: 450px; height: 325px;" />
+ <img align="right" src="https://github-readme-stats-l1afisvel-ruichen199801.vercel.app/api?username=ruichen199801&show_icons=true" alt="Ruichen's GitHub Status" style="width: 450px; height: 310px;" />
 </a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logoWidth=20&width=80)](https://www.linkedin.com/in/ruichenz/)
