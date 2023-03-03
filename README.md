@@ -1,30 +1,20 @@
 ## Hi there, I am Ruichen 👋
 
-<head><link rel="stylesheet" type="text/css" href="./styles.css"></head>
+<a href="http://ruichenzhang.com">
+ <img align="right" src="https://github-readme-stats-l1afisvel-ruichen199801.vercel.app/api?username=ruichen199801&show_icons=true" alt="Ruichen's GitHub Status" />
+</a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logoWidth=20)](https://www.linkedin.com/in/ruichenz/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logoWidth=80)](http://ruichenzhang.com/)
 [![Featured Project](https://img.shields.io/badge/Featured%20Project-orange?style=for-the-badge&logoWidth=40)](https://forxnews.herokuapp.com/)
 
-<div class="container">
-  <div class="bullet-points">
-    <ul>
-      <li>🎓 MCIT Candidate @ Penn '23</li>
-      <li>👨‍🏫 TA for CIS350/557</li>
-      <li>💼 SDE Intern @ Amazon</li>
-      <li>🔬 RA @ CSSLab</li>
-      <li>🚀 SDE Intern @ 4Paradigm</li>
-      <li>🥇 1st Place @ Fulton Bank Datathon</li>
-      <li>🎯 Top 5 Finalist @ Wharton Case Competition</li>
-      <li>🎨 MCIT Winter Hackathon Creativity Winner</li>
-    </ul>
-  </div>
-  <div class="github-stats">
-    <a href="http://ruichenzhang.com">
-      <img src="https://github-readme-stats.vercel.app/api?username=ruichen199801&show_icons=true" alt="Ruichen's GitHub Status" />
-    </a>
-  </div>
-</div>
+- 🎓 MCIT Candidate @ Penn '23
+- 💼 SDE Intern @ Amazon
+- 🔬 RA @ CSSLab
+- 🚀 SDE Intern @ 4Paradigm
+- 🥇 1st Place @ Fulton Bank Datathon
+- 🎯 Top 5 Finalist @ Wharton Case Competition
+- 🎨 MCIT Winter Hackathon Creativity Winner
 
 ### Languages & Tools
 
