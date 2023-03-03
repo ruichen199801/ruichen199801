@@ -20,9 +20,7 @@ My GitHub Statistics
  <img align="right" src="https://github-readme-stats-l1afisvel-ruichen199801.vercel.app/api?username=ruichen199801&show_icons=true" alt="Ruichen's GitHub Status" />
 </a>
 
-<!--[LinkedIn](https://www.linkedin.com/in/ruichenz/) / [Portfolio](http://ruichenzhang.com/) / [Featured Project](https://forxnews.herokuapp.com/)-->
-
-- 🎓 MCIT Candidate @ UPenn '23
+- 🎓 MCIT Candidate @ Penn '23
 - 👨‍🏫 TA for CIS350/557
 - 💼 SDE Intern @ Amazon
 - 🔬 RA @ CSSLab
@@ -30,8 +28,6 @@ My GitHub Statistics
 - 🥇 1st Place @ Fulton Bank Datathon
 - 🎯 Top 5 Finalist @ Wharton Case Competition
 - 🎨 MCIT Winter Hackathon Creativity Winner
-
-<br/>
 
 ### Languages & Tools
 
