@@ -6,6 +6,7 @@
 
 - 🎓 MCIT '23 @ Penn
 - ☕️ SDE Intern @ Amazon, 4Paradigm
+- 🔍 RA @ Shen Lab, CSSLab
 - 🥇 1st Place @ Fulton Bank Datathon
 - 🚀 Top 5 Finalist @ Wharton Case Competition
 - 🎨 MCIT Winter Hackathon Creativity Winner
